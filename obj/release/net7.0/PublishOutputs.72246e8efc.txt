@@ -1,0 +1,7 @@
+/home/liran/code/MVC-Docker/bin/release/net7.0/publish/MVC-test
+/home/liran/code/MVC-Docker/bin/release/net7.0/publish/appsettings.Development.json
+/home/liran/code/MVC-Docker/bin/release/net7.0/publish/appsettings.json
+/home/liran/code/MVC-Docker/bin/release/net7.0/publish/MVC-test.dll
+/home/liran/code/MVC-Docker/bin/release/net7.0/publish/MVC-test.deps.json
+/home/liran/code/MVC-Docker/bin/release/net7.0/publish/MVC-test.runtimeconfig.json
+/home/liran/code/MVC-Docker/bin/release/net7.0/publish/MVC-test.pdb
